@@ -1,0 +1,3 @@
+February 9, 2015
+First week to work on the Project 20%.
+I have decided that Java would be the most appropriate language for my project.
