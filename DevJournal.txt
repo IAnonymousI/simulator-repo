@@ -1,3 +1,13 @@
-February 9, 2015
+2-9-2015
+
 First week to work on the Project 20%.
-I have decided that Java would be the most appropriate language for my project.
+I have decided that Java would be the most appropriate language for my project;
+I am very familiar with Java and can write Java better than any other programming language.
+So far, I've worked on some prototypes that may be potentially used in my project.
+One of the prototypes is a program that uses JFrame, Graphics, ActionListener, and KeyListener.
+It shows a window with a ball at the top left corner, which can be moved by using the arrow keys.
+The ball however can be moved out of the window, and does not stop when the user released the arrow key.
+And the second prototype is not fully functional, but I attempted to make a window(sort of like Command Prompt),
+where the user can type in some command to make the computer respond to it. It doesn't work fully currently,
+but the basic shape and functions are working. Next week, I am planning to work on it a little bit more,
+and hopefully fix it.
