@@ -11,3 +11,6 @@ And the second prototype is not fully functional, but I attempted to make a wind
 where the user can type in some command to make the computer respond to it. It doesn't work fully currently,
 but the basic shape and functions are working. Next week, I am planning to work on it a little bit more,
 and hopefully fix it.
+
+2-16-2015
+
