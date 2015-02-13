@@ -1,4 +1,4 @@
-2-9-2015
+2-7-2015
 
 First week to work on the Project 20%.
 I have decided that Java would be the most appropriate language for my project;
@@ -12,5 +12,15 @@ where the user can type in some command to make the computer respond to it. It d
 but the basic shape and functions are working. Next week, I am planning to work on it a little bit more,
 and hopefully fix it.
 
-2-16-2015
+2-14-2015
+
+I have been developing the Java programs more.
+Java's graphics were very tricky to use, and very hard to design the program as I visualized at first.
+I am trying to gain as much information as I could possibly get out of the Internet, and guide videos.
+Recent program that I worked on, was trying to see if the physic's properties would apply in Java's program
+such as the acceleration, velocity, normal force, etc. I am assuming that it would probably work, but yet I
+need to figure out how to run multiple balls and properties, and to temporarly pause and resume. Next week,
+I will finish that program and begin on some more prototypes.
+
+2-21-2015
 
