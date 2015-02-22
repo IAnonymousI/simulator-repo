@@ -24,3 +24,9 @@ I will finish that program and begin on some more prototypes.
 
 2-21-2015
 
+Third week of the development of the 20% Project. I have been developing more into the prototypes, specifically
+into the graphics. I added the colors to the prototypes, Color.BLACK on the background, Color.WHITE on the object(circle).
+And by using the KeyReleased() method, the object now stops whenever I release the arrow keys. It works very smoothly.
+I also was studying C++ language for the case where Java doesn't really work with the project that I was imagining.
+C++ was an interesting language, but I will try to keep using Java because I am more fluent in Java than C++.
+Next week, I will try to work and focus on Java more, by watching Youtube and studying more.
