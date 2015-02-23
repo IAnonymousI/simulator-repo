@@ -6,6 +6,7 @@ import java.awt.geom.*;
 public class Physics extends JPanel implements ActionListener, KeyListener{
 	
 	//Components
+	
 	Timer time = new Timer(5, this);
 	double x = 250, y = 250, velX = 0, velY = 0, accX = 1, accY = 1;
 	
@@ -25,10 +26,16 @@ public class Physics extends JPanel implements ActionListener, KeyListener{
 	}
 	
 	public void actionPerformed(ActionEvent e){
-		repaint();
-		
 		x += velX;
 		y += velY;
+		if(OutOfBoundaries()){
+			x -= velX;
+			y -= velY;
+			repaint();
+		}
+		else{
+			repaint();
+		}
 	}
 	public void up(){
 		velX = 0;
@@ -45,6 +52,13 @@ public class Physics extends JPanel implements ActionListener, KeyListener{
 	public void right(){
 		velX = 1;
 		velY = 0;
+	}
+	
+	public boolean OutOfBoundaries(){
+		if(x < 200 || y < 200 || x > 500 || y > 500){
+			return true;
+		}
+		return false;
 	}
 	
 	public void keyPressed(KeyEvent e){
