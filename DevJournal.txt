@@ -30,3 +30,14 @@ And by using the KeyReleased() method, the object now stops whenever I release t
 I also was studying C++ language for the case where Java doesn't really work with the project that I was imagining.
 C++ was an interesting language, but I will try to keep using Java because I am more fluent in Java than C++.
 Next week, I will try to work and focus on Java more, by watching Youtube and studying more.
+
+2-28-2015
+
+Fourth week of the development of the 20%.
+I recently discovered that my prototypes are not working on a different compiler, BlueJ. (My current compiler is Eclipse Luna.)
+I am concerned that my program might not work for some of the users when I published my work.
+I'd have to dig Internet more to find how to prevent that.
+So far I've been working on applying a physical property, acceleration onto the ball.
+It seemed really easy at first, but it was very difficult to write a code for acceleration.
+I, again, searched Internet and found that there were 'sensor' that I could import and use to do a lot of things.
+Next week, I will dig down more and try to finalize my prototypes because next week, the second deliverable is due.
