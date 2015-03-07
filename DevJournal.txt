@@ -41,3 +41,13 @@ So far I've been working on applying a physical property, acceleration onto the 
 It seemed really easy at first, but it was very difficult to write a code for acceleration.
 I, again, searched Internet and found that there were 'sensor' that I could import and use to do a lot of things.
 Next week, I will dig down more and try to finalize my prototypes because next week, the second deliverable is due.
+
+3-7-2015
+
+This week I've turned in my second deliverable, which was some prototypes. I didn't make any significant development
+on the prototypes, but I have finalized the thoughts of my product. So my product will have 2 windows; one is a status window,
+in which there will be a set of status of each ball(total of 3 balls). By status I mean numerical values like velocity,
+acceleration, and mass. I may add more than this, but these will be the basic status. And also the user can change these values.
+The other window is the actual simulator window, where there will be 3 balls. I will set 4 walls so the balls cannot escape,
+and the window size will be the exact same, so that it would look like the balls bouncing against the window's barriers.
+So I summarized the product using this journal, and next week, I will be starting to make connections between the prototypes.
