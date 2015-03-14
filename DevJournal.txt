@@ -51,3 +51,11 @@ acceleration, and mass. I may add more than this, but these will be the basic st
 The other window is the actual simulator window, where there will be 3 balls. I will set 4 walls so the balls cannot escape,
 and the window size will be the exact same, so that it would look like the balls bouncing against the window's barriers.
 So I summarized the product using this journal, and next week, I will be starting to make connections between the prototypes.
+
+3-14-2015
+
+So I've been working on the window (JFrame) in which there are some of the status of the balls, velocities,
+accelerations, locations. But the work is still in progress, so I didn't upload the file yet. I am planning to finish
+this and hopefully get it to work. After this, I will somehow figure how to send the data that the user put in to the graphic
+window when the user presses the button. I may or may not need the help from Mr. Schreiber, when working with that.
+And I will also test if Jave is capable of handling 3 balls moving at different properties at the same time. Hopefully it would.
