@@ -59,3 +59,13 @@ accelerations, locations. But the work is still in progress, so I didn't upload 
 this and hopefully get it to work. After this, I will somehow figure how to send the data that the user put in to the graphic
 window when the user presses the button. I may or may not need the help from Mr. Schreiber, when working with that.
 And I will also test if Jave is capable of handling 3 balls moving at different properties at the same time. Hopefully it would.
+
+
+3-21-2015
+
+This week was a successful week. I have almost finished my status window prototype. The shape looks alright.
+But there was a minor problem this week. So the canvas had a white ball originally, which was working very well.
+But this week I tried putting three balls on a single window. One is red, one is blue, and the other one is white.
+So the window after changing the balls started to throw some error at me. I am currently attempting to fix the error,
+which I assume is going to take a while, due to my trip to California next week. After that, if I fix the canvas problem,
+I will work on the connections (Users inputting data, and the canvas receiving the data).
