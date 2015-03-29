@@ -69,3 +69,11 @@ But this week I tried putting three balls on a single window. One is red, one is
 So the window after changing the balls started to throw some error at me. I am currently attempting to fix the error,
 which I assume is going to take a while, due to my trip to California next week. After that, if I fix the canvas problem,
 I will work on the connections (Users inputting data, and the canvas receiving the data).
+
+3-28-2015
+
+As you may know, this week was a spring break. And unfortunately(for the working progress) I was on a trip with my family.
+And due to the lack of internet. I couldn't do anything on the trip excluding some editting that I did on the car. I tried to
+add three balls, with colors red, blue and white, but currently it doesn't even show it on the canvas. Right now working and
+testing with resources from youtube Java tutors. And lastly, for next week, I will try to get the communication between the status window
+and the canvas done. And also, will test if Java is capable of handling three balls simultaneously moving around.
