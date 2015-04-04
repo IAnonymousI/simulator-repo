@@ -16,11 +16,8 @@ public class Canvas extends JPanel implements ActionListener{
 	
 	public void paintComponent(Graphics g){
 		super.paintComponent(g);
-		g.setColor(Color.RED);
 		Graphics2D red = (Graphics2D) g;
-		g.setColor(Color.BLUE);
 		Graphics2D blue = (Graphics2D) g;
-		g.setColor(Color.WHITE);
 		Graphics2D white = (Graphics2D) g;
 		Ellipse2D redCircle = new Ellipse2D.Double(x, y, 10, 10);
 		Ellipse2D blueCircle = new Ellipse2D.Double(x, y, 10, 10);

@@ -9,6 +9,5 @@ public class Run{
 		frame.setSize(500, 500);
 		frame.setResizable(false);
 		frame.add(new Canvas());
-		frame.setBackground(Color.BLACK);
 	}
 }
