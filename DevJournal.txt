@@ -77,3 +77,12 @@ And due to the lack of internet. I couldn't do anything on the trip excluding so
 add three balls, with colors red, blue and white, but currently it doesn't even show it on the canvas. Right now working and
 testing with resources from youtube Java tutors. And lastly, for next week, I will try to get the communication between the status window
 and the canvas done. And also, will test if Java is capable of handling three balls simultaneously moving around.
+
+4-4-2015
+
+This week was a research week, and by that being honest, I did not work on the project that much, except for adding some test
+classes to analyze what the problem is. So the problem is that on my canvas(the window with three balls), I tried to put three
+balls with different colors, but when I compile and run the program, it just shows nothing at all. So I've been researching
+random websites(stack overflow, etc.) yet still not found the solution. Hopefully next week assuming that I will be able
+to find the solution, I will then work on sending the status over to the canvas to make it show the simulation of the given
+data.
