@@ -15,11 +15,11 @@ public class StatusWindow2 extends JFrame implements ActionListener{
 	private final JTextField[] velTF = new JTextField[3];
 	private final JTextField[] accTF = new JTextField[3];
 	
-	private StatusKeeper keeper;
 	
 	public StatusWindow2(){
 		
 		super("Status Window");
+		new Canvas(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 		setLayout(new GridLayout(5, 5, 10, 10));
 		
 		for(int i = 0; i <= 2; i++){
@@ -58,6 +58,8 @@ public class StatusWindow2 extends JFrame implements ActionListener{
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 	
+
+	
 	public String[] getPos(){
 		String[] pos = {posTF[0].getText(), posTF[1].getText(), posTF[2].getText()};
 		return pos;
@@ -75,8 +77,8 @@ public class StatusWindow2 extends JFrame implements ActionListener{
 	
 	public void actionPerformed(ActionEvent event){
 		if(event.getSource() == applyButton){
-			new Canvas();
-			dispose();
+			new Canvas(Integer.parseInt(getPos()[0].split(" ")[0]), Integer.parseInt(getPos()[0].split(" ")[1]), Integer.parseInt(getVel()[0].split(" ")[0]), Integer.parseInt(getVel()[0].split(" ")[1]), Integer.parseInt(getPos()[2].split(" ")[0]), Integer.parseInt(getPos()[2].split(" ")[1]), Integer.parseInt(getVel()[2].split(" ")[0]), Integer.parseInt(getVel()[2].split(" ")[1]), Integer.parseInt(getPos()[1].split(" ")[0]), Integer.parseInt(getPos()[1].split(" ")[1]), Integer.parseInt(getVel()[1].split(" ")[0]), Integer.parseInt(getVel()[1].split(" ")[1]));
+			
 		}
 	}
 }
