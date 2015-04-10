@@ -86,3 +86,13 @@ balls with different colors, but when I compile and run the program, it just sho
 random websites(stack overflow, etc.) yet still not found the solution. Hopefully next week assuming that I will be able
 to find the solution, I will then work on sending the status over to the canvas to make it show the simulation of the given
 data.
+
+4-11-2015
+
+This week I actually accomplished a lot of things. First off, I got three balls on the canvas, one red, one
+white, and one blue. The only problem is that Java cannot handle checking three balls if they are out of
+bounds or not, so I am thinking about using thread, which I have never used. But otherwise they work
+perfectly. And I also got the StatusWindow working, it sends the input to the canvas correctly. But here is
+a major problem. I tried sending input to the canvas, but the canvas doesn't move the balls. So I tried
+resizing the window, then the balls started to flicker back and forth from the initial position, to the
+position that I specified in the status window. Next week, I will try to fix that problem.
