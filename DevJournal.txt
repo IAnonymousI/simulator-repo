@@ -96,3 +96,11 @@ perfectly. And I also got the StatusWindow working, it sends the input to the ca
 a major problem. I tried sending input to the canvas, but the canvas doesn't move the balls. So I tried
 resizing the window, then the balls started to flicker back and forth from the initial position, to the
 position that I specified in the status window. Next week, I will try to fix that problem.
+
+4-18-2015
+
+So I have figured out why my program is not working. I am not quite sure but I think I am supposed to use the double buffering
+Double buffering prevents a Java program from making a graphic flicker. But I have no clue how to use double buffering
+currently so I have to dig more and find more information about it. And my last thing that I have to finish up if I get
+the double buffering done is the acceleration. I also need to research more about the acceleration because I don't think
+I can write codes to simulate accelerations, and I think there will be some resources like acceleration sensors.
