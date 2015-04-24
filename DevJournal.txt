@@ -104,3 +104,11 @@ Double buffering prevents a Java program from making a graphic flicker. But I ha
 currently so I have to dig more and find more information about it. And my last thing that I have to finish up if I get
 the double buffering done is the acceleration. I also need to research more about the acceleration because I don't think
 I can write codes to simulate accelerations, and I think there will be some resources like acceleration sensors.
+
+4-25-2015
+
+Due to the busy week, I couldn't accomplish many things. One of the few things I did this week is that I researched
+into the double buffering and watched many tuturial videos, but I still do not quite get how to apply that to
+my project. I might have to research more. The second thing is that I have decided to give the acceleration feature up,
+due to the overwhelming amount of works that I have not worked with before. Lastly, I have started a new package
+for my project, for the real project. Next week I will try to get more things done (hopefully).
