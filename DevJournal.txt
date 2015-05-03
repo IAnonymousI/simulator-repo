@@ -112,3 +112,12 @@ into the double buffering and watched many tuturial videos, but I still do not q
 my project. I might have to research more. The second thing is that I have decided to give the acceleration feature up,
 due to the overwhelming amount of works that I have not worked with before. Lastly, I have started a new package
 for my project, for the real project. Next week I will try to get more things done (hopefully).
+
+5-2-2015
+
+So I made a decision for my project. Since I have 2 major problems that I need to work on, which are the double buffering
+and the acceleration simulation, and I have only three weeks until the final presentation, I have decided that
+I will try to focus on one thing first then if I have enough time, I move on to the next thing. But in reality, I don't think
+that I would be able to make the acceleration simulation due to its complexity and the due date. But still I believe that
+in a short period of time I have accomplished a lot of things. Next week, I will get the double buffering done, or if possible
+research more into the acceleration sensor.
