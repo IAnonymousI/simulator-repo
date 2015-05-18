@@ -121,3 +121,11 @@ I will try to focus on one thing first then if I have enough time, I move on to 
 that I would be able to make the acceleration simulation due to its complexity and the due date. But still I believe that
 in a short period of time I have accomplished a lot of things. Next week, I will get the double buffering done, or if possible
 research more into the acceleration sensor.
+
+5-16-2015
+
+I finalized the program "Simulator". I unfortunately did not fix the flickering problem, and I have cancelled the acceleration
+feature due to the upcoming due date and the final presentation. Currently, I have made a jar file for a live demo for
+the powerpoint, and I am also working on the final presentation. The presentation is not quite long enough (needs to be 10 minutes long)
+, so I am planning to extend the presentation. Right now, my job is to finish the presentation and practice and rehearse the presentation.
+This was an exciting project, I am very proud of what I have done.
